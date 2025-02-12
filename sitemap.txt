@@ -10,6 +10,7 @@ https://la-casa-blanca.org/administration/melania-trump
 https://la-casa-blanca.org/administration/the-cabinet
 https://la-casa-blanca.org/administration/usha-vance
 https://la-casa-blanca.org/articles
+https://la-casa-blanca.org/articles/2025/02/industry-lawmakers-applaud-president-trumps-section-232-tariffs
 https://la-casa-blanca.org/briefings-statements
 https://la-casa-blanca.org/briefings-statements/2025/01/fact-sheet-executive-order-to-establish-united-states-leadership-in-digital-financial-technology
 https://la-casa-blanca.org/briefings-statements/2025/01/fact-sheet-president-donald-j-trump-delivers-emergency-price-relief-for-american-families-to-defeat-the-cost-of-living-crisis
@@ -42,6 +43,7 @@ https://la-casa-blanca.org/briefings-statements/2025/01/white-house-statement-on
 https://la-casa-blanca.org/briefings-statements/2025/01/white-house-statement-on-hostage-release
 https://la-casa-blanca.org/briefings-statements/2025/02/presidential-message-on-super-bowl-lix
 https://la-casa-blanca.org/briefings-statements/2025/02/readout-of-president-donald-j-trumps-call-with-president-el-sisi-of-egypt
+https://la-casa-blanca.org/briefings-statements/2025/02/statement-from-the-national-security-advisor
 https://la-casa-blanca.org/briefings-statements/2025/02/statement-from-the-press-secretary-on-januarys-jobs-reports
 https://la-casa-blanca.org/briefings-statements/2025/02/united-states-japan-joint-leaders-statement
 https://la-casa-blanca.org/briefings-statements/page/2
@@ -82,6 +84,7 @@ https://la-casa-blanca.org/fact-sheets/2025/02/fact-sheet-president-donald-j-tru
 https://la-casa-blanca.org/fact-sheets/2025/02/fact-sheet-president-donald-j-trump-restores-maximum-pressure-on-iran
 https://la-casa-blanca.org/fact-sheets/2025/02/fact-sheet-president-donald-j-trump-restores-section-232-tariffs
 https://la-casa-blanca.org/fact-sheets/2025/02/fact-sheet-president-donald-j-trump-withdraws-from-anti-american-un-organizations
+https://la-casa-blanca.org/fact-sheets/2025/02/fact-sheet-president-donald-j-trump-works-to-remake-americas-federal-workforce
 https://la-casa-blanca.org/fact-sheets/2025/02/president-trump-is-delivering-on-his-commitment-to-protect-our-kids
 https://la-casa-blanca.org/fact-sheets/page/2
 https://la-casa-blanca.org/fact-sheets/page/3
@@ -96,6 +99,7 @@ https://la-casa-blanca.org/news/page/14
 https://la-casa-blanca.org/news/page/15
 https://la-casa-blanca.org/news/page/16
 https://la-casa-blanca.org/news/page/17
+https://la-casa-blanca.org/news/page/18
 https://la-casa-blanca.org/news/page/2
 https://la-casa-blanca.org/news/page/3
 https://la-casa-blanca.org/news/page/4
@@ -191,6 +195,7 @@ https://la-casa-blanca.org/presidential-actions/2025/01/unleashing-prosperity-th
 https://la-casa-blanca.org/presidential-actions/2025/01/withdrawing-the-united-states-from-the-worldhealth-organization
 https://la-casa-blanca.org/presidential-actions/2025/02/addressing-egregious-actions-of-the-republic-of-south-africa
 https://la-casa-blanca.org/presidential-actions/2025/02/adjusting-imports-of-steel-into-the-united-states
+https://la-casa-blanca.org/presidential-actions/2025/02/adjusting-imports-of-steel-into-the-united-states-afbe
 https://la-casa-blanca.org/presidential-actions/2025/02/amendment-to-duties-addressing-the-synthetic-opioid-supply-chain-in-the-peoples-republic-of-china
 https://la-casa-blanca.org/presidential-actions/2025/02/american-heart-month-2025
 https://la-casa-blanca.org/presidential-actions/2025/02/a-plan-for-establishing-a-united-states-sovereign-wealth-fund
@@ -200,6 +205,7 @@ https://la-casa-blanca.org/presidential-actions/2025/02/ending-procurement-and-f
 https://la-casa-blanca.org/presidential-actions/2025/02/eradicating-anti-christian-bias
 https://la-casa-blanca.org/presidential-actions/2025/02/establishment-of-the-white-house-faith-office
 https://la-casa-blanca.org/presidential-actions/2025/02/gulf-of-america-day-2025
+https://la-casa-blanca.org/presidential-actions/2025/02/implementing-the-presidents-department-of-government-efficiency-workforce-optimization-initiative
 https://la-casa-blanca.org/presidential-actions/2025/02/imposing-duties-to-address-the-flow-of-illicit-drugs-across-our-national-border
 https://la-casa-blanca.org/presidential-actions/2025/02/imposing-duties-to-address-the-situation-at-our-southern-border
 https://la-casa-blanca.org/presidential-actions/2025/02/imposing-duties-to-address-the-synthetic-opioid-supply-chain-in-the-peoples-republic-of-china
@@ -209,6 +215,7 @@ https://la-casa-blanca.org/presidential-actions/2025/02/memorandum-for-the-heads
 https://la-casa-blanca.org/presidential-actions/2025/02/national-security-presidential-memorandum-nspm-2
 https://la-casa-blanca.org/presidential-actions/2025/02/pausing-foreign-corrupt-practices-act-enforcement-to-further-american-economic-and-national-security
 https://la-casa-blanca.org/presidential-actions/2025/02/president-trump-announces-appointments-to-the-white-house-faith-office
+https://la-casa-blanca.org/presidential-actions/2025/02/president-trump-announces-the-presidents-intelligence-advisory-board
 https://la-casa-blanca.org/presidential-actions/2025/02/progress-on-the-situation-at-our-northern-border
 https://la-casa-blanca.org/presidential-actions/2025/02/progress-on-the-situation-at-our-southern-border
 https://la-casa-blanca.org/presidential-actions/2025/02/protecting-second-amendment-rights
