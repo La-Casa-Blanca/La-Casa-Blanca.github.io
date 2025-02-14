@@ -15,6 +15,9 @@ https://la-casa-blanca.org/articles/2025/02/industry-lawmakers-applaud-president
 https://la-casa-blanca.org/articles/2025/02/memo-to-press-hundreds-of-dollars-are-fraudulently-spent-every-year
 https://la-casa-blanca.org/articles/2025/02/president-donald-j-trump-brings-marc-fogel-home
 https://la-casa-blanca.org/articles/2025/02/president-donald-j-trump-secures-release-of-another-american-held-hostage
+https://la-casa-blanca.org/articles/2025/02/president-trump-demands-fair-reciprocal-trade
+https://la-casa-blanca.org/articles/2025/02/reciprocal-trade-and-tariffs
+https://la-casa-blanca.org/articles/2025/02/trump-administration-follow-the-law
 https://la-casa-blanca.org/briefings-statements
 https://la-casa-blanca.org/briefings-statements/2025/01/fact-sheet-executive-order-to-establish-united-states-leadership-in-digital-financial-technology
 https://la-casa-blanca.org/briefings-statements/2025/01/fact-sheet-president-donald-j-trump-delivers-emergency-price-relief-for-american-families-to-defeat-the-cost-of-living-crisis
@@ -45,6 +48,7 @@ https://la-casa-blanca.org/briefings-statements/2025/01/statement-from-the-press
 https://la-casa-blanca.org/briefings-statements/2025/01/statement-of-administration-policy-h-r-21-born-alive-abortion-survivors-protection-act
 https://la-casa-blanca.org/briefings-statements/2025/01/white-house-statement-on-agreement-extension-between-lebanon-and-israel
 https://la-casa-blanca.org/briefings-statements/2025/01/white-house-statement-on-hostage-release
+https://la-casa-blanca.org/briefings-statements/2025/02/first-lady-melania-trump-announces-opening-of-white-house-public-tours
 https://la-casa-blanca.org/briefings-statements/2025/02/presidential-message-on-super-bowl-lix
 https://la-casa-blanca.org/briefings-statements/2025/02/readout-of-president-donald-j-trumps-call-with-president-el-sisi-of-egypt
 https://la-casa-blanca.org/briefings-statements/2025/02/readout-of-president-donald-j-trumps-meeting-with-king-abdullah-ii-of-jordan
@@ -78,10 +82,12 @@ https://la-casa-blanca.org/fact-sheets/2025/01/fact-sheet-president-donald-j-tru
 https://la-casa-blanca.org/fact-sheets/2025/01/omb-q-a-regarding-memorandum-m-25-13
 https://la-casa-blanca.org/fact-sheets/2025/02/at-usaid-waste-and-abuse-runs-deep
 https://la-casa-blanca.org/fact-sheets/2025/02/fact-sheet-president-donald-j-trump-addresses-human-rights-violations-in-south-africa
+https://la-casa-blanca.org/fact-sheets/2025/02/fact-sheet-president-donald-j-trump-announces-fair-and-reciprocal-plan-on-trade
 https://la-casa-blanca.org/fact-sheets/2025/02/fact-sheet-president-donald-j-trump-eliminates-the-federal-executive-institute
 https://la-casa-blanca.org/fact-sheets/2025/02/fact-sheet-president-donald-j-trump-ends-the-procurement-and-forced-use-of-paper-straws
 https://la-casa-blanca.org/fact-sheets/2025/02/fact-sheet-president-donald-j-trump-eradicates-anti-christian-bias
 https://la-casa-blanca.org/fact-sheets/2025/02/fact-sheet-president-donald-j-trump-establishes-one-voice-for-americas-foreign-relations
+https://la-casa-blanca.org/fact-sheets/2025/02/fact-sheet-president-donald-j-trump-establishes-the-make-america-healthy-again-commission
 https://la-casa-blanca.org/fact-sheets/2025/02/fact-sheet-president-donald-j-trump-establishes-white-house-faith-office
 https://la-casa-blanca.org/fact-sheets/2025/02/fact-sheet-president-donald-j-trump-imposes-tariffs-on-imports-from-canada-mexico-and-china
 https://la-casa-blanca.org/fact-sheets/2025/02/fact-sheet-president-donald-j-trump-is-protecting-americans-second-amendment-rights
@@ -211,6 +217,7 @@ https://la-casa-blanca.org/presidential-actions/2025/02/career-and-technical-edu
 https://la-casa-blanca.org/presidential-actions/2025/02/eliminating-the-federal-executive-institute
 https://la-casa-blanca.org/presidential-actions/2025/02/ending-procurement-and-forced-use-of-paper-straws
 https://la-casa-blanca.org/presidential-actions/2025/02/eradicating-anti-christian-bias
+https://la-casa-blanca.org/presidential-actions/2025/02/establishing-the-presidents-make-america-healthy-again-commission
 https://la-casa-blanca.org/presidential-actions/2025/02/establishment-of-the-white-house-faith-office
 https://la-casa-blanca.org/presidential-actions/2025/02/gulf-of-america-day-2025
 https://la-casa-blanca.org/presidential-actions/2025/02/implementing-the-presidents-department-of-government-efficiency-workforce-optimization-initiative
