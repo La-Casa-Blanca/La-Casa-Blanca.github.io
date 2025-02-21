@@ -10,6 +10,8 @@ https://la-casa-blanca.org/administration/melania-trump
 https://la-casa-blanca.org/administration/the-cabinet
 https://la-casa-blanca.org/administration/usha-vance
 https://la-casa-blanca.org/articles
+https://la-casa-blanca.org/articles/2025/02/america-is-back-and-president-trump-is-just-getting-started
+https://la-casa-blanca.org/articles/2025/02/at-usaid-waste-and-abuse-runs-deep
 https://la-casa-blanca.org/articles/2025/02/cfpb-isnt-a-wall-street-regulator-its-a-main-street-regulator
 https://la-casa-blanca.org/articles/2025/02/illegal-border-crossings-plummeted-in-january
 https://la-casa-blanca.org/articles/2025/02/industry-lawmakers-applaud-president-trumps-section-232-tariffs
@@ -18,6 +20,7 @@ https://la-casa-blanca.org/articles/2025/02/national-energy-dominance-council-pa
 https://la-casa-blanca.org/articles/2025/02/president-donald-j-trump-brings-marc-fogel-home
 https://la-casa-blanca.org/articles/2025/02/president-donald-j-trump-secures-release-of-another-american-held-hostage
 https://la-casa-blanca.org/articles/2025/02/president-trump-demands-fair-reciprocal-trade
+https://la-casa-blanca.org/articles/2025/02/president-trump-is-delivering-on-his-commitment-to-protect-our-kids
 https://la-casa-blanca.org/articles/2025/02/reciprocal-trade-and-tariffs
 https://la-casa-blanca.org/articles/2025/02/trump-administration-follow-the-law
 https://la-casa-blanca.org/articles/2025/02/trump-effect-shows-no-slowdown
@@ -137,6 +140,7 @@ https://la-casa-blanca.org/news/page/20
 https://la-casa-blanca.org/news/page/21
 https://la-casa-blanca.org/news/page/22
 https://la-casa-blanca.org/news/page/23
+https://la-casa-blanca.org/news/page/24
 https://la-casa-blanca.org/news/page/3
 https://la-casa-blanca.org/news/page/4
 https://la-casa-blanca.org/news/page/5
@@ -273,6 +277,7 @@ https://la-casa-blanca.org/presidential-actions/2025/02/progress-on-the-situatio
 https://la-casa-blanca.org/presidential-actions/2025/02/progress-on-the-situation-at-our-southern-border
 https://la-casa-blanca.org/presidential-actions/2025/02/protecting-second-amendment-rights
 https://la-casa-blanca.org/presidential-actions/2025/02/protecting-second-amendment-rights-7b90
+https://la-casa-blanca.org/presidential-actions/2025/02/radical-transparency-about-wasteful-spending
 https://la-casa-blanca.org/presidential-actions/2025/02/withdrawing-the-united-states-from-and-ending-funding-to-certain-united-nations-organizations-and-reviewing-united-states-support-to-all-international-organizations
 https://la-casa-blanca.org/presidential-actions/page/10
 https://la-casa-blanca.org/presidential-actions/page/11
@@ -302,12 +307,17 @@ https://la-casa-blanca.org/remarks/2025/01/the-inaugural-address
 https://la-casa-blanca.org/remarks/2025/02/1458
 https://la-casa-blanca.org/remarks/2025/02/interview-of-president-trump-and-elon-musk-by-sean-hannity-the-sean-hannity-show
 https://la-casa-blanca.org/remarks/2025/02/interview-of-president-trump-by-jamie-little-fox-sports
+https://la-casa-blanca.org/remarks/2025/02/press-briefing-by-press-secretary-karoline-leavitt-deputy-chief-of-staff-stephen-miller-national-economic-council-director-kevin-hassett-and-national-security-advisor-mike-waltz
+https://la-casa-blanca.org/remarks/2025/02/press-gaggle-by-president-trump-aboard-air-force-one-en-route-joint-base-andrews
+https://la-casa-blanca.org/remarks/2025/02/press-gaggle-by-president-trump-at-future-investment-initiative-institute-priority-summit
 https://la-casa-blanca.org/remarks/2025/02/remarks-by-president-trump-after-air-force-one-arrival
+https://la-casa-blanca.org/remarks/2025/02/remarks-by-president-trump-after-executive-order-signing
 https://la-casa-blanca.org/remarks/2025/02/remarks-by-president-trump-and-prime-minister-narendra-modi-of-the-republic-of-india-in-joint-press-conference
 https://la-casa-blanca.org/remarks/2025/02/remarks-by-president-trump-and-secretary-of-the-department-of-health-and-human-services-robert-f-kennedy-jr-during-swearing-in-ceremony
 https://la-casa-blanca.org/remarks/2025/02/remarks-by-president-trump-at-the-national-prayer-breakfast
 https://la-casa-blanca.org/remarks/2025/02/remarks-by-president-trump-before-air-force-one-departure-ee5c
 https://la-casa-blanca.org/remarks/page/2
+https://la-casa-blanca.org/remarks/page/3
 https://la-casa-blanca.org/the-administration/donald-j-trump
 https://la-casa-blanca.org/the-administration/jd-vance
 https://la-casa-blanca.org/the-administration/melania-trump
