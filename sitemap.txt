@@ -40,6 +40,7 @@ https://la-casa-blanca.org/articles/2025/02/wins-come-all-day-under-president-tr
 https://la-casa-blanca.org/articles/2025/03/50-wins-in-50-days-president-trump-delivers-for-americans
 https://la-casa-blanca.org/articles/2025/03/another-democrat-lawmaker-roots-against-american-success
 https://la-casa-blanca.org/articles/2025/03/another-historic-investment-secured-under-president-trump
+https://la-casa-blanca.org/articles/2025/03/another-most-wanted-criminal-captured-by-the-trump-administration
 https://la-casa-blanca.org/articles/2025/03/cabinet-wins-trump-administration-unleashing-golden-age
 https://la-casa-blanca.org/articles/2025/03/democrats-showed-whose-side-theyre-on-and-its-not-the-american-people
 https://la-casa-blanca.org/articles/2025/03/fact-check-president-trump-will-always-protect-social-security-medicare
@@ -136,12 +137,14 @@ https://la-casa-blanca.org/briefings-statements/2025/03/national-consumer-protec
 https://la-casa-blanca.org/briefings-statements/2025/03/national-poison-prevention-week-2025
 https://la-casa-blanca.org/briefings-statements/2025/03/presidential-message-on-colorectal-cancer-awareness-month-2025
 https://la-casa-blanca.org/briefings-statements/2025/03/presidential-message-on-holi-2025
+https://la-casa-blanca.org/briefings-statements/2025/03/presidential-message-on-nowruz-2025
 https://la-casa-blanca.org/briefings-statements/2025/03/presidential-message-on-ramadan
 https://la-casa-blanca.org/briefings-statements/2025/03/presidential-message-on-st-patricks-day-2025
 https://la-casa-blanca.org/briefings-statements/2025/03/presidential-message-on-the-255th-anniversary-of-the-boston-massacre-2025
 https://la-casa-blanca.org/briefings-statements/2025/03/presidential-message-on-the-birthday-of-president-andrew-jackson-2025
 https://la-casa-blanca.org/briefings-statements/2025/03/president-trump-announces-presidential-delegation-to-turin-italy-to-attend-the-opening-ceremony-of-the-2025-special-olympics-world-winter-games
 https://la-casa-blanca.org/briefings-statements/2025/03/readout-from-first-lady-melania-trumps-roundtable-discussion-on-online-protection-and-the-take-it-down-act
+https://la-casa-blanca.org/briefings-statements/2025/03/statement-from-secretary-rubio-and-nsc-waltz-on-call-with-zelenskyy
 https://la-casa-blanca.org/briefings-statements/2025/03/statement-from-the-press-secretary-2cd9
 https://la-casa-blanca.org/briefings-statements/2025/03/statement-from-the-press-secretary-50c7
 https://la-casa-blanca.org/briefings-statements/2025/03/the-president-and-first-ladys-message-on-ash-wednesday-2025
@@ -208,6 +211,7 @@ https://la-casa-blanca.org/fact-sheets/2025/02/fact-sheet-president-donald-j-tru
 https://la-casa-blanca.org/fact-sheets/2025/02/fact-sheet-president-donald-j-trump-withdraws-from-anti-american-un-organizations
 https://la-casa-blanca.org/fact-sheets/2025/02/fact-sheet-president-donald-j-trump-works-to-remake-americas-federal-workforce
 https://la-casa-blanca.org/fact-sheets/2025/02/president-trump-is-delivering-on-his-commitment-to-protect-our-kids
+https://la-casa-blanca.org/fact-sheets/2025/03/fact-sheet-president-donald-j-trump-achieves-efficiency-through-state-and-local-preparedness
 https://la-casa-blanca.org/fact-sheets/2025/03/fact-sheet-president-donald-j-trump-addresses-risks-from-paul-weiss
 https://la-casa-blanca.org/fact-sheets/2025/03/fact-sheet-president-donald-j-trump-addresses-the-threat-to-national-security-from-imports-of-timber-lumber-and-their-derivative-products
 https://la-casa-blanca.org/fact-sheets/2025/03/fact-sheet-president-donald-j-trump-adjusts-tariffs-on-canada-and-mexico-to-minimize-disruption-to-the-automotive-industry
@@ -220,6 +224,7 @@ https://la-casa-blanca.org/fact-sheets/2025/03/fact-sheet-president-donald-j-tru
 https://la-casa-blanca.org/fact-sheets/2025/03/fact-sheet-president-donald-j-trump-honors-jocelyn-nungaray
 https://la-casa-blanca.org/fact-sheets/2025/03/fact-sheet-president-donald-j-trump-proceeds-with-tariffs-on-imports-from-canada-and-mexico
 https://la-casa-blanca.org/fact-sheets/2025/03/fact-sheet-president-donald-j-trump-rapidly-expands-timber-production
+https://la-casa-blanca.org/fact-sheets/2025/03/fact-sheet-president-donald-j-trump-removes-dei-from-the-foreign-service
 https://la-casa-blanca.org/fact-sheets/2025/03/fact-sheet-president-donald-j-trump-rescinds-additional-harmful-biden-executive-actions
 https://la-casa-blanca.org/fact-sheets/2025/03/fact-sheet-president-donald-j-trump-restores-public-service-loan-forgiveness
 https://la-casa-blanca.org/fact-sheets/page/2
@@ -259,6 +264,7 @@ https://la-casa-blanca.org/news/page/33
 https://la-casa-blanca.org/news/page/34
 https://la-casa-blanca.org/news/page/35
 https://la-casa-blanca.org/news/page/36
+https://la-casa-blanca.org/news/page/37
 https://la-casa-blanca.org/news/page/4
 https://la-casa-blanca.org/news/page/5
 https://la-casa-blanca.org/news/page/6
@@ -422,7 +428,9 @@ https://la-casa-blanca.org/presidential-actions/2025/03/honoring-jocelyn-nungara
 https://la-casa-blanca.org/presidential-actions/2025/03/immediate-expansion-of-american-timber-production
 https://la-casa-blanca.org/presidential-actions/2025/03/invocation-of-the-alien-enemies-act-regarding-the-invasion-of-the-united-states-by-tren-de-aragua
 https://la-casa-blanca.org/presidential-actions/2025/03/nominations-sent-to-the-senate-8355
+https://la-casa-blanca.org/presidential-actions/2025/03/removing-discrimination-and-discriminatory-equity-ideology-from-the-foreign-service
 https://la-casa-blanca.org/presidential-actions/2025/03/restoring-public-service-loan-forgiveness
+https://la-casa-blanca.org/presidential-actions/2025/03/test
 https://la-casa-blanca.org/presidential-actions/2025/03/u-s-hostage-and-wrongful-detainee-day-2025
 https://la-casa-blanca.org/presidential-actions/page/10
 https://la-casa-blanca.org/presidential-actions/page/11
